@@ -1,0 +1,1 @@
+This project implements a system for managing and retrieving driver locations using Redis' Geospatial features. It allows efficient storage and querying of driver locations and supports fetching all drivers within a 'K' km radius of a passenger.
